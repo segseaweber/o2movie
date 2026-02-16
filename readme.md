@@ -1,4 +1,4 @@
-# 🎬 02Movie – Free Movie & Live Sports Streaming Platform
+# 🎬 O2Movie – Free Movie & Live Sports Streaming Platform
 
 Official website:
 - 🌐 https://02movie.com
